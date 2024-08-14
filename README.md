@@ -12,7 +12,7 @@ Obtener información valiosa a partir de datos históricos del sector de telecom
 
 ## **Directorios y archivos del repositorio**
 
-- [**Datos**:]("Datos") Directorio donde se disponibilizan las fuentes de datos sin procesar. Son todos archivos excel.
+- [**Datos**:]("[Datos](https://github.com/Facu6/ProyectoIndividual_2_SoyHenry/blob/02e4fce394dd307d72588c5e771bc6da29ef0f8f/EDA.ipynb)") Directorio donde se disponibilizan las fuentes de datos sin procesar. Son todos archivos excel.
 - [**Datos Procesados Para PowerBI**:]("Datos Procesados Para PowerBI") Directorio donde se disponibilizan las fuentes de datos procesadas, listas para trabajarse en PowerBI.
 - [**EDA**:]("EDA.ipynb") Archivo .ipynb donde se realizó el correspondiente EDA (Anális Exploratorio de Datos).
 - [**Dashboard**:]("PowerBI_ProyectoIndividual2.pbix") Reporte realizado en PowerBI.
