@@ -12,7 +12,7 @@ Obtener información valiosa a partir de datos históricos del sector de telecom
 
 ## **Directorios y archivos del repositorio**
 
-- [**Datos Originales**:]('Datos') Directorio donde se disponibilizan las fuentes de datos sin procesar. Son todos archivos excel.
+- [**Datos Originales**:](Datos) Directorio donde se disponibilizan las fuentes de datos sin procesar. Son todos archivos excel.
 - [**Datos Procesados Para PowerBI**:]("Datos Procesados Para PowerBI") Directorio donde se disponibilizan las fuentes de datos procesadas, listas para trabajarse en PowerBI.
 - [**EDA**:]("EDA.ipynb") Archivo .ipynb donde se realizó el correspondiente EDA (Anális Exploratorio de Datos).
 - [**Dashboard**:]("PowerBI_ProyectoIndividual2.pbix") Reporte realizado en PowerBI.
