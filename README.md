@@ -30,7 +30,7 @@ Se hace una exploración de datos con mediante Python con la ayuda de biblioteca
 
 ### **2) ETL (Extract, Transform and Load)**
 
-En el archivo de [**EDA**:](EDA.ipynb) se mencionan los pasos realizados para transformar y limpiar los datos. También se cuenta con la ayuda de gráficas, para mejor visualización, mediante las herramientas de Matplotlib y Seaborn.
+En el archivo de -[**EDA**:](EDA.ipynb) se mencionan los pasos realizados para transformar y limpiar los datos. También se cuenta con la ayuda de gráficas, para mejor visualización, mediante las herramientas de Matplotlib y Seaborn.
 
 ### **3) Construcción del Dashboard**
 
